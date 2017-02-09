@@ -1,3 +1,8 @@
+#container
+{
+	width: 100%;
+
+}
 body 
 {
 	width: 960px;
@@ -14,7 +19,7 @@ header
 	height: 70px;
 	width: 240px;
 	text-align: center;
-	margin-left: 60px;
+	margin-left: 70px;
 	background-color: #40AAA5;
 	display: inline-block;
 
@@ -28,6 +33,7 @@ header
 	right: 200px;
 	color: #a9a9a9;
 	font-size: 14px;
+	margin-bottom: 15px
 }
 
 a:link
@@ -49,7 +55,7 @@ footer
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 18px;
 	background-color: #666666;
-	width: 900px;
+	width: 960px;
 	height: 60px;
 	margin: 0 auto 0 auto;
 	border-top: solid #40AAA5 5px;
@@ -58,13 +64,13 @@ footer
 
 section
 {
-	width: 550px;
+	width: 650px;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 18px;
 	float: left;
 	background-color: #fff;
 	height: 420px;
-	margin-left: 60px;
+	margin-left: 40px;
 	margin-top: 10px;
 	/*text-align: center;*/
 	border: solid #dddddd 1px;
@@ -74,10 +80,9 @@ section
 aside
 {
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-	font-size: 18px;
-	width: 240px;
+	width: 220px;
 	background-color: #fff;
-	margin-right: 320px;
+	margin-right: 280px;
 	margin-top: 10px;
 	height: 150px;
 	float: right;
@@ -132,11 +137,10 @@ p
 #headone
 {
 	height: 70px;
-	width: 900px;
+	width: 960px;
 	text-align: center;
 	background-color: #ffffff;
 	margin: 0 auto 0 auto;
-	margin-top: 15px;
 	border-bottom: solid #a9a9a9 1px;
 }
 
@@ -195,6 +199,7 @@ li
 	width: 480px;
 	margin-left: 20px;
 	margin-right: 20px;
+	margin-top: 20px;
 
 }
 
@@ -204,6 +209,7 @@ li
 	width: 190px;
 	margin-left: 20px;
 	margin-right: 20px;
+	margin-top: 20px;
 
 }
 
@@ -236,7 +242,7 @@ form
 	margin-right: 20px;
 	margin-bottom: 30px;
 	position: absolute;
-	left: 220px;
+	left: 260px;
 }
 
 #portfolio-img2
@@ -244,7 +250,7 @@ form
 	margin-right: 20px;
 	margin-bottom: 30px;
 	position: absolute;
-	left: 520px;
+	left: 560px;
 	top: 185px;
 }
 
@@ -253,7 +259,7 @@ form
 	margin-right: 20px;
 	margin-bottom: 30px;
 	position: absolute;
-	left: 220px;
+	left: 260px;
 	top: 385px;
 }
 
@@ -262,7 +268,7 @@ form
 	margin-right: 20px;
 	margin-bottom: 30px;
 	position: absolute;
-	left: 520px;
+	left: 560px;
 	top: 385px;
 }
 
@@ -271,7 +277,7 @@ form
 	width: 130px;
 	z-index: 2px;
 	position: absolute;
-	left: 200px;
+	left: 240px;
 	height: 20px;
 	color: #fff;
 	margin-top: 80px;
@@ -284,7 +290,7 @@ form
 	width: 130px;
 	z-index: 2px;
 	position: absolute;
-	left: 500px;
+	left: 540px;
 	top: 185px;
 	height: 20px;
 	color: #fff;
@@ -298,7 +304,7 @@ form
 	width: 130px;
 	z-index: 2px;
 	position: absolute;
-	left: 200px;
+	left: 240px;
 	top: 385px;
 	height: 20px;
 	color: #fff;
@@ -312,7 +318,7 @@ form
 	width: 130px;
 	z-index: 2px;
 	position: absolute;
-	left: 500px;
+	left: 540px;
 	top: 385px;
 	height: 20px;
 	color: #fff;
