@@ -70,7 +70,7 @@ section
 	float: left;
 	background-color: #fff;
 	height: 420px;
-	margin-left: 40px;
+	/*margin-left: 40px;*/
 	margin-top: 10px;
 	/*text-align: center;*/
 	border: solid #dddddd 1px;
@@ -82,7 +82,7 @@ aside
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	width: 220px;
 	background-color: #fff;
-	margin-right: 280px;
+	margin-right: 300px;
 	margin-top: 10px;
 	height: 150px;
 	float: right;
@@ -196,7 +196,7 @@ li
 #maincontenthr
 {
 	border-bottom: solid #C9C9C9 2px;
-	width: 480px;
+	width: 560px;
 	margin-left: 20px;
 	margin-right: 20px;
 	margin-top: 20px;
@@ -239,36 +239,28 @@ form
 
 #portfolio-img1
 {
-	margin-right: 20px;
-	margin-bottom: 30px;
 	position: absolute;
-	left: 260px;
+	left: 200px;
 }
 
 #portfolio-img2
 {
-	margin-right: 20px;
-	margin-bottom: 30px;
 	position: absolute;
-	left: 560px;
+	left: 520px;
 	top: 185px;
 }
 
 #portfolio-img3
 {
-	margin-right: 20px;
-	margin-bottom: 30px;
 	position: absolute;
-	left: 260px;
+	left: 200px;
 	top: 385px;
 }
 
 #portfolio-img4
 {
-	margin-right: 20px;
-	margin-bottom: 30px;
 	position: absolute;
-	left: 560px;
+	left: 520px;
 	top: 385px;
 }
 
@@ -277,7 +269,7 @@ form
 	width: 130px;
 	z-index: 2px;
 	position: absolute;
-	left: 240px;
+	left: 180px;
 	height: 20px;
 	color: #fff;
 	margin-top: 80px;
@@ -290,7 +282,7 @@ form
 	width: 130px;
 	z-index: 2px;
 	position: absolute;
-	left: 540px;
+	left: 500px;
 	top: 185px;
 	height: 20px;
 	color: #fff;
@@ -304,7 +296,7 @@ form
 	width: 130px;
 	z-index: 2px;
 	position: absolute;
-	left: 240px;
+	left: 180px;
 	top: 385px;
 	height: 20px;
 	color: #fff;
@@ -318,7 +310,7 @@ form
 	width: 130px;
 	z-index: 2px;
 	position: absolute;
-	left: 540px;
+	left: 500px;
 	top: 385px;
 	height: 20px;
 	color: #fff;
